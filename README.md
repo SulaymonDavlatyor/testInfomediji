@@ -1,3 +1,34 @@
+## **Assignment**
+
+Imagine a platform such as **Patreon** where content creators can schedule the release of their content and subscribers are notified about this new content in real-time. 
+
+**Your task** is to build a part of a system that allows creators to schedule and dispatch their content while notifying subscribers efficiently and promptly.
+### Functional Requirements
+
+1. 📅 **Content Timekeeper**
+    - Allow creators to upload and store their content with relevant metadata (e.g., title, description, price, release date, etc.).
+    - Enable creators to schedule when their content will be released.
+2. 💼 **Content Launcher:**
+    - Punctually roll out the content on the platform, adhering to the creator's timeline.
+3. 📣 **Follower Alert Hub:**
+    - Propel real-time alerts to followers whenever fresh content emerges.
+4. 🔥 **Cache:** 
+    - Minimise the need to query the primary database.
+
+### 🦾 Non-Functional Requirements
+
+- 📈 **Growth Readiness:** The platform should stand robust, even when bombarded with massive content rollouts or a barrage of alerts.
+- ⚡ **Optimized Performance:** Commit to the prompt unveiling of content and timely delivery of notifications. Ensure no one's kept waiting!
+
+## **🎤 Questions**
+
+1. Explain your architectural decisions and choice of tools/libraries.
+2. What tradeoffs did you make when designing your solution, and why did you make those decisions?
+3. Any improvements you would like to make if that was your real project?
+
+
+
+
 ## Architectural Decisions and Choice of Tools/Libraries
 
 First of all, I want to note that I made a mistake. Being sick while completing a task, I slightly misread the assignment and added features for rescheduling the content release, although it was not mentioned.
