@@ -1,4 +1,4 @@
-## **Assignment**
+## **Test Task Assignment**
 
 Imagine a platform such as **Patreon** where content creators can schedule the release of their content and subscribers are notified about this new content in real-time. 
 
@@ -28,7 +28,7 @@ Imagine a platform such as **Patreon** where content creators can schedule the r
 
 
 
-
+## Answers
 ## Architectural Decisions and Choice of Tools/Libraries
 
 First of all, I want to note that I made a mistake. Being sick while completing a task, I slightly misread the assignment and added features for rescheduling the content release, although it was not mentioned.
